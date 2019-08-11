@@ -52,7 +52,7 @@ sleep(5)
 driver.switch_to.frame(0)
 driver.find_element_by_xpath("/html[1]/body[1]/div[1]/div[4]/div[1]/a[2]/img[1]").click()
 
-
+# NEEDS TO WORKAROUND SOME DYNAMIC ELEMENTS AND FINALLY LOOP 20 TIMES
 
 
     
