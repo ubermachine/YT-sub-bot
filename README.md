@@ -1,2 +1,3 @@
 # YT-sub-bot
-Subbot using subpal and similar sites using selenium and python.
+Subbot using subpal and similar sites(NOT IMPLEMENTED) using selenium and python.
+Basically for automation of redundant task of subbing people to get subs back in retuen
